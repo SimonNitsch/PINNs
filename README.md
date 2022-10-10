@@ -1,1 +1,1 @@
-# PINNs_Nitsch
+# PINNs
