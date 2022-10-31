@@ -1,7 +1,6 @@
 # PINNs
 
 Hier sind die im Rahmen der Arbeit geschriebenen Programme zu finden.
-
 Die .py Dateien sind für folgende Kapitel:
 
 
