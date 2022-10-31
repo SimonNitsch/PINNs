@@ -4,7 +4,6 @@ Hier sind die im Rahmen der Arbeit geschriebenen Programme zu finden.
 Die .py Dateien sind für folgende Kapitel:
 
 
-
 SchroedingerNonLin.py - Nichtlineare Schrödingergleichung Forward PINN
 
 SchroedingerNonLinInvers.py - Nichtlineare Schrödingergleichung Inverse PINN
