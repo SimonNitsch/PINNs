@@ -1,6 +1,7 @@
 # PINNs
 
 Hier sind die im Rahmen der Arbeit geschriebenen Programme zu finden.
+
 Die .py Dateien sind für folgende Kapitel:
 
 SchroedingerNonLin.py - Nichtlineare Schrödingergleichung Forward PINN
@@ -26,3 +27,20 @@ TunnelFinite.py - Programm zur Simulation eines Teilchens mit Gauß-Anfangsbedin
 TunnelGauss.py - Tunnelproblem Forward PINN mit Randbed. 0 mit Gauß-Anfangsbedingungen
 
 TunnelTest.py - Programm zum Testen der Tunnelproblem Forward PINN mit Randbed. 0
+
+Die .h5 Dateien sind die abgspeicherten neuronalen Netze:
+
+NonLin.h5 - Nichtlineare Schrödingergleichung Forward PINN
+
+Oszi1D.h5 - 1D Harmonischer Oszillator Forward PINN
+
+Oszi1D_0.h5 - 1D Harmonischer Oszillator Forward PINN mit Randbed. 0
+
+Gauss_Paket.h5 - 1D Harmonischer Oszillator in kohärentem Zustand Forward PINN
+
+Oszi1DGauss_0.h5 - 1D Harmonischer Oszillator in kohärentem Zustand Forward PINN mit Randbed. 0
+
+GaussTunnel2.h5 - Tunnelproblem Forward PINN mit Randbed. 0 mit Gauß-Anfangsbedingungen
+
+
+
